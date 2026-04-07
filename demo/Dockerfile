@@ -1,4 +1,4 @@
-FROM node:25.6.0
+FROM node:25.9.0
 
 LABEL maintainer="Justin D. Harris (https://github.com/juharris)"
 LABEL org.label-schema.vendor="Microsoft"
